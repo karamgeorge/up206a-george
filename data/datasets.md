@@ -9,7 +9,7 @@ Source: https://developer.metro.net/gis-data/
 Download: https://github.com/karamgeorge/up206a-george/blob/main/data/StopServingLines1221.zip
 <br>
 ### Raw data for urban trees in California communities
-Description: This dataset (shapefile) shows tree canopy cover over six areas in California.
+Description: This dataset (csv) shows tree canopy cover over six areas in California.
 <br>
 Use: I can use this data to map tree canopy in the LA metro area and find out what communities benefit from urban trees. For instance, do communities with higher tree canopy cover have a lower average temperature than communities with lower tree canopy cover?
 <br>
