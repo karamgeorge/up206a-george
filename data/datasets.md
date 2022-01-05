@@ -2,7 +2,7 @@
 ### Stops Serving Lines, LA Metro
 Description: This dataset (shapefile) maps all transit stops serviced by LA Metro lines as of December, 2021.
 <br>
-Use: By overlaying tree canopy data, I will be able to see what transit stops benefit the least from shade trees.
+Use: By overlaying tree canopy data, I will be able to see what transit stops benefit the least from shade trees. This insight can guide the City and County in where it should prioritize limited tree planting resources.
 <br>
 Source: https://developer.metro.net/gis-data/
 <br>
