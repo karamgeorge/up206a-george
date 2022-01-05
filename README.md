@@ -1,7 +1,9 @@
 # UP206A - Introduction to GIS
 #### George Karam
 First Year MURP <br> 
-*Transportation Policy and Planning*
+*Transportation Policy and Planning* <br><br>
+Likes: municipal politics, public transportation, pedestrian-oriented infrastructure, nature-based sustainability. <br>
+Dislikes: the monorail alternatives of the Sepulveda Pass Transit Corridor Project. (I will die on this hill.)
 ## Objectives
 Gain a basic foundation of Python and the ways coding and data science can be utilized by urban planners.
 ## Project Ideas
