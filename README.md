@@ -3,7 +3,8 @@
 ## Profile
 ### George Karam
 First Year MURP <br> 
-*Transportation Policy and Planning* <br><br>
+*Transportation Policy and Planning* <br>
+georgekaram@g.ucla.edu <br><br>
 Likes: municipal politics, public transportation, pedestrian-oriented infrastructure, nature-based sustainability. <br>
 Dislikes: the monorail alternatives of the Sepulveda Pass Transit Corridor Project. (I will die on this hill.)
 ## Objectives
