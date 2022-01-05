@@ -1,5 +1,5 @@
 # UP206A - Introduction to GIS
-#### George Karam
+### George Karam
 First Year MURP <br> 
 *Transportation Policy and Planning* <br><br>
 Likes: municipal politics, public transportation, pedestrian-oriented infrastructure, nature-based sustainability. <br>
