@@ -6,7 +6,7 @@ Use: By overlaying tree canopy data, I will be able to see what transit stops be
 <br>
 Source: https://developer.metro.net/gis-data/
 <br>
-Download:
+Download: https://github.com/karamgeorge/up206a-george/blob/main/data/StopServingLines1221.zip
 <br>
 ### Raw data for urban trees in California communities
 Description: This dataset (shapefile) shows tree canopy cover over six areas in California.
@@ -15,4 +15,4 @@ Use: I can use this data to map tree canopy in the LA metro area and find out wh
 <br>
 Source: https://www.fs.usda.gov/rds/archive/catalog/RDS-2017-0011
 <br>
-Download:
+Download: https://github.com/karamgeorge/up206a-george/blob/main/data/Tree%20Canopy%20Cover.zip
