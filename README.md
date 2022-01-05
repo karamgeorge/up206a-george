@@ -3,7 +3,7 @@
 First Year MURP <br> 
 *Transportation Policy and Planning*
 ## Objectives
-I hope to get a basic foundation of Python and the ways coding and data science can be utilized by urban planners.
+Gain a basic foundation of Python and the ways coding and data science can be utilized by urban planners.
 ## Project Ideas
 **Transportation** <br><br>
 Mapping pedestrian-involved collisions on street intersections to gain insight on where the City should invest money into additionally infrastructure (i.e., reflective signage, street lamps, HAWK beacons) to prevent future collisions. <br><br>
